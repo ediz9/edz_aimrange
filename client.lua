@@ -1,4 +1,3 @@
---hello dumper
 local target, targetCoords = nil, nil
 local score, count = 0, 0
 local start = false
